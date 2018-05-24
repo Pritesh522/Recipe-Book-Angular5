@@ -1,3 +1,6 @@
+# Preview Link
+http://ng-grocery-recipe-project-deployment.s3-website-us-west-1.amazonaws.com/
+
 # NgFiveGroceryProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
